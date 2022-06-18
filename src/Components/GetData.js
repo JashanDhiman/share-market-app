@@ -1,7 +1,7 @@
 var WebSocket = require("ws");
 
-let user = "enter_your_user_id";
-let pwd = "enter_your_password";
+let user = "wssand037";
+let pwd = "jashan037";
 // enter the port you have been given for RT data. Production = 8082, Sandbox = 8084
 let port = "8082";
 var connection = null;
